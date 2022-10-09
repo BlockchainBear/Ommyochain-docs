@@ -64,8 +64,7 @@ based on a native Ethereum signature, all wallets, even hardware wallets, will w
 
 ### Deployment
 
-Ommyochain 2.0 Testnet is here! To get started visit the [Ommyochain 2.0 Documentation](https://v2-docs.ommyochain.io/dev/).
-
+Ommyochain 2.0 Testnet is coming soon! get whitelisted to be one of the first users
 ## Zinc
 
 [Zinc](https://github.com/ommyochain/zinc) is an emerging framework for developing smart contracts and SNARK circuits
